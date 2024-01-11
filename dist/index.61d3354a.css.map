@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/index.css"],"sourcesContent":[":root  {\n    --pink: #fe68b5;\n    --blue: #00b8e5;\n    --grey: #bfbfbf;\n    --black: #1B1212;\n    --white: #F9F6EE;\n}\n"],"names":[],"version":3,"file":"index.61d3354a.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,28 @@
+.resumeTitle {
+    font-size: 1.5rem;
+    margin-left: -1rem;
+}
+
+.experienceTitle, .skillsTitle, .educationTitle {
+    font-size: 1.25rem;
+    border-bottom: 1px solid var(--black);
+}
+
+svg.upChevron {
+    rotate: 180deg;
+}
+
+svg.upArrow {
+    rotate: 180deg;
+}
+
+.myResume {
+    text-align: right;
+    padding-top: 2rem;
+}
+
+.myResume a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid var(--blue);
+}
